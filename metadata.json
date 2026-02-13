@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SRL - Sistema de Rota Logística",
+  "description": "Plataforma corporativa para instrução de rotas de motoristas com acesso restrito via voucher de 6 horas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
